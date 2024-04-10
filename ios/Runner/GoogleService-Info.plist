@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>259276890047-j7h1a8vd7g0uinrs2tf2c00mefc377eo.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.259276890047-j7h1a8vd7g0uinrs2tf2c00mefc377eo</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAGS9mlamPW4-DZBTtvLyRa100tlQKU-rY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>259276890047</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.iapps.export</string>
+	<key>PROJECT_ID</key>
+	<string>truth-or-dare-17c72</string>
+	<key>STORAGE_BUCKET</key>
+	<string>truth-or-dare-17c72.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:259276890047:ios:4ff46bfcf43e7feba00b0a</string>
+</dict>
+</plist>
